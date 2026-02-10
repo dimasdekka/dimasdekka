@@ -17,7 +17,7 @@
 ✨ Always learning, experimenting, and embracing new tech! I'm currently learning Vue.js
 <br/>
 
-📬 Let’s connect! Always open to collaborate and share ideas: [dekanantadiams@gmail.com]
+📬 Let’s connect! Always open to collaborate and share ideas: [dekanantadimas@gmail.com]
 
 ---
 
